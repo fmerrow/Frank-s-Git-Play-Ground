@@ -1,0 +1,7 @@
+C:\Documents and Settings\fmerrow\My Documents\CSharp\FranksColors\FranksColors\bin\Debug\FranksColors.dll
+C:\Documents and Settings\fmerrow\My Documents\CSharp\FranksColors\FranksColors\bin\Debug\FranksColors.pdb
+C:\Documents and Settings\fmerrow\My Documents\CSharp\FranksColors\FranksColors\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\fmerrow\My Documents\CSharp\FranksColors\FranksColors\obj\Debug\FranksColors.dll
+C:\Documents and Settings\fmerrow\My Documents\CSharp\FranksColors\FranksColors\obj\Debug\FranksColors.pdb
+C:\Documents and Settings\fmerrow\My Documents\CSharp\FranksColors\FranksColors\bin\Debug\ClassLibrary1.dll
+C:\Documents and Settings\fmerrow\My Documents\CSharp\FranksColors\FranksColors\bin\Debug\ClassLibrary1.pdb
